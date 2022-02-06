@@ -3,7 +3,7 @@ This is an Weather App which tells you about the weather of any city in the Worl
 <br>
 <br>
 
-App Link --> https://shaklan2001.github.io/Weather-App/   (Enjoy the app 😊) 
+App Link --> https://shaklan2001.github.io/Weather-App/  
 
 
 <br>
