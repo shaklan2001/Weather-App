@@ -7,7 +7,6 @@ App Link --> https://shaklan2001.github.io/Weather-App/
 
 
 <br>
-<br>
 
 This app tells you about
 <ul>
