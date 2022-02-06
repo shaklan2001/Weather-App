@@ -14,7 +14,7 @@ This app tells you about
   <li>Weather 🌥🌧🌤⚡️❄️⛈</li>
   <li>Temperature 🌡</li>
   <li>Current time ⏰  and Date 📆</li>
-   <li>Minimun and Maximun temperature of the day 🌡</li>
+   <li>Minimun and Maximun temprature of the day 🌡</li>
 </ul>
 <br>
 Language use in this app --> Html, CSS, JS
