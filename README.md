@@ -1,4 +1,4 @@
-# Weather-App 🌤⛈⛅️
+# Weather App 🌤⛈⛅️
 This is an Weather App which tells you about the weather of any city in the World 🌏.
 <br>
 <br>
