@@ -17,3 +17,10 @@ This app tells you about
 </ul>
 <br>
 Language used in this app --> Html, CSS, JS
+
+<br>
+<br>
+
+# UI Design
+
+<img width="426" alt="Screenshot 2022-04-27 at 10 48 01 PM" src="https://user-images.githubusercontent.com/90901154/165583058-cf50d1ce-cb69-4676-b74a-12e87b7d53a0.png">
